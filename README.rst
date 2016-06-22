@@ -14,6 +14,19 @@ Install requirements: ::
   
     pip install -r requirements.txt
 
+Copy env-sample and configure: ::
+
+   cp contrib/env-sample .env
+
+Remember: You need enter with Browser Api Key on .env file.
+
+Create Google Browser Api Key
+-----------------------------
+
+Follow instructions: ::
+
+https://developers.google.com/maps/documentation/static-maps/get-api-key
+
 Run
 ---
 
